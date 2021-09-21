@@ -84,6 +84,9 @@ function run_primer()
 }
 run_primer();
 
+
+
+
 // adding admin menu
 
 include_once(constant('PRIMER_DIR_PATH').'admin/admin-menu.php');
